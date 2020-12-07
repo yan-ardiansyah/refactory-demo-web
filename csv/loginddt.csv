@@ -1,0 +1,7 @@
+TestCase,Username,Password,AlertMessage
+Login without fill the login form,,,Please fill out Username and Password.
+Login with only fill the username field,useryan,,Please fill out Username and Password.
+Login with only fill the password field,,user,Please fill out Username and Password.
+Login with invalid username,userinvalid,user,User does not exist.
+Login with invalid password,useryan,invalid,Wrong password.
+Login with valid credential,useryan,user,

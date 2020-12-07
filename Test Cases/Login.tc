@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment>testcase</comment>
+   <testCaseGuid>bfb025a0-6406-403a-bd57-15e8f1dff814</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Login').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>26ac6976-0e34-4111-9415-126e0d441dce</id>
+      <masked>false</masked>
+      <name>testcase</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Login').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>a9b83168-d35d-466a-9160-3a346fe95dba</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Login').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>bc554c57-92e0-45bf-af75-08070b4c6e40</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Login').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>85bdbdb6-f140-4ca8-8283-23098a8223ca</id>
+      <masked>false</masked>
+      <name>alert_m</name>
+   </variable>
+</TestCaseEntity>
