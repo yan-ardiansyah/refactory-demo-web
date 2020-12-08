@@ -9,4 +9,9 @@
       <initValue>'www.demoblaze.com/index.html'</initValue>
       <name>url</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Screenshot\\\\Screenshot_'</initValue>
+      <name>ss</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
